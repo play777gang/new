@@ -373,3 +373,5 @@ if __name__ == '__main__':
 
     #print(f'{Fore.GREEN}Certificates generated successfully. (cert.pem)')
     #print(f'{Fore.YELLOW}Warning, keep these certificates safe (Do not share or version in git)')
+
+
