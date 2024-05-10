@@ -4,3 +4,5 @@ pyOpenSSL==23.2.0
 colorama==0.4.3
 requests-pkcs12==1.13
 Deprecated==1.2.14
+uvicorn
+Flask
