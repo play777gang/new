@@ -5,4 +5,4 @@ colorama==0.4.3
 requests-pkcs12==1.13
 Deprecated==1.2.14
 Uvicorn==0.15.0
-Flask==2.1.0
+fastapi==2.1.0
